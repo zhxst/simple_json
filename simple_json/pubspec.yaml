@@ -9,7 +9,7 @@ environment:
 dependencies:
   simple_json_mapper: ^2.1.0
   build_resolvers: ^2.0.4
-  analyzer: ^2.2.0
+  analyzer: ^3.2.0
   build: ^2.1.0
   source_gen: ^1.1.0
   path: ^1.8.0
